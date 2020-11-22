@@ -22,5 +22,8 @@ path = "src/types.rs"
 name = "strings"
 path = "src/strings.rs"
 
+[[bin]]
+name = "functions"
+path = "src/functions.rs"
 
 [dependencies]
