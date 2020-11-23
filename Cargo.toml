@@ -26,4 +26,8 @@ path = "src/strings.rs"
 name = "functions"
 path = "src/functions.rs"
 
+[[bin]]
+name = "control_flow"
+path = "src/control_flow.rs"
+
 [dependencies]
