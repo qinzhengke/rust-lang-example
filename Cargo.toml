@@ -30,4 +30,8 @@ path = "src/functions.rs"
 name = "control_flow"
 path = "src/control_flow.rs"
 
+[[bin]]
+name = "ownership"
+path = "src/ownership.rs"
+
 [dependencies]
